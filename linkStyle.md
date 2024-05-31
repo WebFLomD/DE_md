@@ -1,5 +1,5 @@
 # Подколючение css и js к Yii
-[Назад](index.md)
+[Назад](README.md)
 
 Файл с css и js надо закинуть в папку web. Затем в коде можно новую создать (PublicAssets.php) или стрый оствить(AppAssets.php) assets/PublicAssets.php:
 ```php
