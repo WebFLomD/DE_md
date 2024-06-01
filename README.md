@@ -5,6 +5,6 @@
 * [Запрос к базе данных и пагинация](database-query-and-pagination.md)
 * [Подколючение css и js к Yii](linkStyle.md)
 * [Навигационая панель HTML и CSS]()
-* [Права доступа]()
+* [Права доступа](access_rights.md)
 * [Счетчик]()
 
